@@ -11,30 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematics, McMaster University, 2021. 
+	* Supervisors: Drs. Stan Alama and Lia Bronsard.
+	* Thesis title: Solutions and limits of the Thomas-Fermi-Dirac-Von Weizsacker energy with background potential
+* M.Sc. in Applied Mathematics, Technion - Israel, 2014. 
+	* Supervisor: Dr. Itai Shafrir
+	* Thesis title: On Semi-linear elliptic systems exhibiting critical behavior
+* B.Sc. in Mathematics, Universidad Nacional de Colombia, 2011.
 
-Work experience
+Teaching experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023-2024: Limited term Assistant Professor, Lakehead University.
+	* Calculus I for Engineers (MATH 1210)
+	* Matrix Methods and Differential Equations (MATH 2090)
+	* Vector Analysis (MATH 3012)
+* 2022-2023: Assistant Professor, Valdosta State University.
+	* Analytic geometry & Calculus I (MATH 2261)
+	* Analytic geometry & Calculus II (MATH 2262)
+	* Introduction to Linear Algebra (MATH 2150)
+	* Numerical Analysis (MATH 4561)
+	* Introduction to Mathematical Modeling (MATH 1101 online)
+* 2017-2021: Instructor, McMaster University, in-person or online.
+	* Calculus for Mathematics and Statistics I (1X03)
+	* Engineering Mathematics III (2Z03)
+	* Advanced Calculus I (2X03)
+	* Advanced Calculus II (2XX3)
+	* Introduction to Differential Equations (2C03)
+	* Partial Differential Equations for Engineers (3I03)
+	* Real Analysis (3A03)
+* 2015-2016: Researcher, Universidad Nacional de Colombia.
+	* Research group: Scientific Calculus and Mathematical Modelling
+	* Partially mentoring Master students
+* 2016: Instructor, Universidad de Caldas, Colombia, in-person.
+	* Differential and Integral Calculus
+	* Descriptive Statistics
+* 2014-2016: Instructor, Universidad Nacional de Colombia, in-person
+	* Single Variable Calculus
+	* Integral Calculus
+	* Linear Algebra
+	* Numerical Methods
+	* Complex Analysis
 
 Publications
 ======
@@ -54,6 +71,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+
+* 2022-2023:  Committee member, Valdosta State University
+	* Faculty committee on student engagement
+	* MESA (a committee that serves the Hispanic students at VSU)
+	* Undergraduate Research Committee
+* 2020-present:   Reviewer, SIAM Studies in Applied Mathematics
+* 2020: Initiative, McMaster University.  Started the team “Teaching and Learning Math at
+Mac!”, where students, faculty and staff have discussions on teaching and learning
+Mathematics
+
