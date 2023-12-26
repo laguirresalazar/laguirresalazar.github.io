@@ -1,7 +1,7 @@
 ---
-title: "Instructor"
+title: "2014-2016"
 collection: teaching
-type: "Undergraduate course"
+type: "Instructor"
 permalink: /teaching/2014-Universidad-Nacional-de-Colombia
 venue: "Universidad Nacional de Colombia"
 date: 2014-01-01
