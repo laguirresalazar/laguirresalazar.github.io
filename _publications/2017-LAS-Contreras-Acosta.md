@@ -9,7 +9,7 @@ mollification. In this model, conditions for stability and convergence of the
 discretization proposed are discussed.'
 date: 2017-01-01
 venue: 'Revista Colombiana de Matemáticas'
-paperurl: 'http://laguirresalazar.github.io/files/Black-Scholes.pdf'
+paperurl: 'http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0034-74262017000200195&lng=en&nrm=iso'
 citation: 'L. Aguirre, H. Contreras and C.D. Acosta (2017). &quot; Numerical solution to a nonlocal and nonlinear Black-Scholes model by discrete mollification &quot; (in Spanish); <i>Revista Colombiana de Matemáticas</i> <b>51</b>(2), pp.195-220.'
 ---
 In this paper, we study a nonlinear nonlocal Black-Scholes model by

@@ -5,7 +5,7 @@ permalink: /publication/2021-LAS-Alama-Bronsard
 excerpt: ''
 date: 2021-01-01
 venue: 'SIAM Journal of Mathematical Analysis'
-paperurl: 'http://laguirresalazar.github.io/files/GammaConvergenceTFDWToLiquidDrop.pdf'
+paperurl: 'https://doi.org/10.1137/20M1344329'
 citation: 'L. Aguirre Salazar, S. Alama, and L. Bronsard (2021). &quot; Convergence of the TFDW Energy to the Liquid Drop Model &quot; <i>SIAM J. Math. Anal.</i> <b>53</b>(3) pp. 3493-3519.'
 ---
 We consider two nonlocal variational models arising in physical contexts. The first is
