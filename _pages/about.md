@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is Prof. Lorena Aguirre Salazar's home.
+Welcome to my home page! 
+
+I am currently a term Assistant Professor at Lakehead University, Barrie Campus. 
+
+My research interests include Reflective Practices in 
+Teaching and Learning Mathematics, Pattern formation in the Calculus of
+Variations and PDEs both theoretically and computationally.
