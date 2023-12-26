@@ -1,9 +1,9 @@
 ---
-title: "2014-2016, Instructor at Universidad Nacional de Colombia"
+title: "2014-2016, Universidad Nacional de Colombia"
 collection: teaching
-type: ""
+type: "Instructor"
 permalink: /teaching/2014-Universidad-Nacional-de-Colombia
-venue: ""
+venue: "Bogota, Colombia"
 date: 2014-01-01
 location: "Bogota, Colombia"
 ---
