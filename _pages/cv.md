@@ -19,7 +19,28 @@ Education
 	* Thesis title: On Semi-linear elliptic systems exhibiting critical behavior
 * B.Sc. in Mathematics, Universidad Nacional de Colombia, 2011.
 
-Teaching experience
+Professional Development
+======
+* 2022-2023: One year program, TPSE Leadership institute, Leadership in transforming post-secondary education in Mathematics. Project-based
+* 2022: Certificate, Kognito, At-risk Mental Health for Faculty & Staff
+* 2021: Online Specialization, University of Colorado, The Teacher and Social and Emo-tional Learning
+* 2020: Online Specialization, University of California, Virtual Teacher
+* 2020: Online Certificate, University of Michigan, Leading for Equity, Diversity and
+Inclusion in Higher Education
+* 2020: Online Certificate, University of Illinois, An introduction to Accessibility and Inclusive Design
+* 2020: Certificate, McMaster University, Professor Hippo-on-Campus Student Mental
+Health Education Program for Educators and Navigators
+* 2018-2019:  Certificate, McMaster University, Teaching and Learning Scholar
+* 2018:  Certificate, Instructional Skill Workshop (ISW)
+* 2017-2018: Certificate, McMaster University, Teaching and Learning Foundations
+
+Research Interests
+======
+Reflective Practices in Teaching and Learning Mathematics, Pattern formation in the Calculus of Variations and PDEs both theoretically and computationally.
+
+
+
+Experience
 ======
 
 * 2023-2024: Limited term Assistant Professor, Lakehead University.
@@ -33,6 +54,14 @@ Teaching experience
 	* Numerical Analysis (MATH 4561)
 	* Introduction to Mathematical Modeling (MATH 1101 online)
 * 2017-2021: Instructor, McMaster University, in-person or online.
+	* Calculus for Mathematics and Statistics I (1X03)
+	* Engineering Mathematics III (2Z03)
+	* Advanced Calculus I (2X03)
+	* Advanced Calculus II (2XX3)
+	* Introduction to Differential Equations (2C03)
+	* Partial Differential Equations for Engineers (3I03)
+	* Real Analysis (3A03)
+* 2016-2021: Teaching Assistant, McMaster University, in-person or online.
 	* Calculus for Mathematics and Statistics I (1X03)
 	* Engineering Mathematics III (2Z03)
 	* Advanced Calculus I (2X03)

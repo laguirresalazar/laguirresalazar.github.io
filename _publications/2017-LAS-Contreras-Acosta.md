@@ -19,6 +19,6 @@ discretization proposed are discussed.
 
 [Download paper here](http://laguirresalazar.github.io/files/Black-Scholes.pdf)
 
-Recommended citation: L. Aguirre, H. Contreras and C.D. Acosta (2017). &quot; Numerical solution to a nonlocal and nonlinear Black-Scholes model by discrete mollification &quot (in Spanish); <i>Revista Colombiana de Matemáticas</i> <b>51</b>(2), pp.195-220.
+Recommended citation: L. Aguirre, H. Contreras and C.D. Acosta (2017). &quot; Numerical solution to a nonlocal and nonlinear Black-Scholes model by discrete mollification &quot; (in Spanish) <i>Revista Colombiana de Matemáticas</i> <b>51</b>(2), pp.195-220.
 
 
