@@ -66,6 +66,12 @@ Programming Skills
 ======
 Matlab, Java, C++, Maple, R
 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 
 Experience
 ======
