@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor"
 permalink: /teaching/2014-Universidad-Nacional-de-Colombia
 venue: "Universidad Nacional de Colombia, Bogota, Colombia"
-date: 2014-01-01
+date: 2014-09-01
 location: "Bogota, Colombia"
 ---
 

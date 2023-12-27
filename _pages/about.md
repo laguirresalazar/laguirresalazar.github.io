@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my home page! 
 
-I am currently a term Assistant Professor at Lakehead University, Barrie Campus. 
+I am currently a Limited Term Assistant Professor at Lakehead University, Georgian-Barrie Campus. 
 
 My research interests include Reflective Practices in 
 Teaching and Learning Mathematics, Pattern formation in the Calculus of
