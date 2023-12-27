@@ -3,7 +3,7 @@ title: "2023-2024, Lakehead University"
 collection: teaching
 type: "Limited term Assistant Professor"
 permalink: /teaching/2023-Lakehead
-venue: "Barrie, ON, Canada"
+venue: "Lakehead University, Barrie, ON, Canada"
 date: 2016-09-01
 location: "Barrie, ON, Canada"
 ---

@@ -3,7 +3,7 @@ title: "2016-2021, McMaster University"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2016-TA-McMaster
-venue: "Hamilton, ON, Canada"
+venue: "McMaster University, Hamilton, ON, Canada"
 date: 2016-09-01
 location: "Hamilton, ON, Canada"
 ---
