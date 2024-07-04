@@ -4,4 +4,4 @@ title: "Research"
 author_profile: true
 ---
 
-I am interested in Reflective Practices in Teaching and Learning Mathematics, Pattern formation in the Calculus of Variations and PDEs both theoretically and computationally.
+I am interested in Pattern Formation in the Calculus of Variations and PDEs both theoretically and computationally, and in Reflective Practices in the Teaching and Learning Mathematics at the tertiary level.
