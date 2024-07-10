@@ -17,6 +17,12 @@ Education
 * M.Sc. in Applied Mathematics, Technion - Israel, 2014. 
 	* Supervisor: Dr. Itai Shafrir
 	* Thesis title: On Semi-linear elliptic systems exhibiting critical behavior
+* Exchange student, Civil Engineering Mathematics, Universidad de Chile, Santiago, 2011.
+	* Fourier Analysis
+	* Partial Differential Equations
+	* Optimization
+* Summer school in Measure Theory, Universidade Federal de Rio de Janeiro (UFRJ), Brazil, 2010.
+* Summer school in Functional Analysis, Instituto de Matematica Pure y Aplicada (IMPA), Rio de Janeiro, Brazil, 2010.
 * B.Sc. in Mathematics, Universidad Nacional de Colombia, 2011.
 
 Professional Development
