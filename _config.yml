@@ -86,7 +86,7 @@ author:
   location         : "Corpus Christi, TX, USA"
   employer         : "Texas A&M Corpus Christi"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=76L9XvEAAAAJ"
   email            : "loremathprof@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Lorena-Aguirre-Salazar" 
   uri              : ""
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/lorena-aguirre-salazar-487a26235/"
+  orcid            : "https://orcid.org/0009-0005-6629-6822"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
