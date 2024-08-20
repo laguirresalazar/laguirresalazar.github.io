@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-CA"
+locale                   : "en-US"
 title                    : "Prof. Lorena Aguirre Salazar"
 title_separator          : "-"
 name                     : &name "Prof. Lorena Aguirre Salazar"
-description              : &description "Limited Term Assistant Professor at Lakehead University, Georgian-Barrie Campus"
+description              : &description "Visiting Assistant Professor at Texas A&M Corpus Christi"
 url                      : https://laguirresalazar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "laguirresalazar/laguirresalazar.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Lorena Aguirre Salazar"
   avatar           : "Lorena.jpg"
-  bio              : "Limited Term Assistant Professor at Lakehead University, Georgian-Barrie Campus"
-  location         : "Barrie, ON, Canada"
-  employer         : "Lakehead University"
+  bio              : "Visiting Assistant Professor at Texas A&M Corpus Christi"
+  location         : "Corpus Christi, TX, USA"
+  employer         : "Texas A&M Corpus Christi"
   pubmed           : 
   googlescholar    : 
   email            : "loremathprof@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Lorena-Aguirre-Salazar" 
-  uri              : "https://www.lakeheadu.ca/users/S/lasalaz1/node/107516"
+  uri              : ""
   bitbucket        :
   codepen          :
   dribbble         :
