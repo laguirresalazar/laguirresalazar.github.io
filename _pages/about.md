@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my home page! 
 
-I am currently a Limited Term Assistant Professor at Lakehead University, Georgian-Barrie Campus. 
+I am currently a Visiting Assistant Professor at Texas A&M Corpus Christi. 
 
 My research interests include Pattern formation in the Calculus of
 Variations and PDEs both theoretically and computationally, and 
