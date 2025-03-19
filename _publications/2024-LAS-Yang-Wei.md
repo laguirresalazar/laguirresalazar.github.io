@@ -3,8 +3,8 @@ title: "An Ohta-Kawasaki Model set on the space"
 collection: publications
 permalink: /publication/2024-LAS-Yang-Wei
 excerpt: ''
-date: 2024-06-01
-venue: 'Bulletin of the London Mathematical Society'
+date: 2025-04-01
+venue: 'Bulletin of the London Mathematical Society (pending minor revisions)'
 paperurl: 'https://arxiv.org/pdf/2401.03120.pdf'
 citation: 'L. Aguirre Salazar, Xin Yang Lu, and Jun-cheng Wei. (2025) &quot; An Ohta-Kawasaki Model set on the space &quot; <i>arXiv preprint</i> arXiv:2401.03120. Submitted to the <b>Bulletin of the London Mathematical Society</b>. Undergoing minor revisions.'
 ---
