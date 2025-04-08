@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my home page! 
 
-Facultu at Texas A&M Corpus Christi. 
+Faculty in the Department of Mathematics and Statistics at Texas A&M University, Corpus Christi, TX, US. 
 
-My research interests include applications of pattern formation in the Calculus of
-Variations and PDEs both theoretically and computationally to Quantum Physics and Material Science. Community building and belonging.
+My research interests include Quantum Physics and Material Science applications of pattern formation in the Calculus of
+Variations and PDEs both theoretically and computationally. Community building and belonging.
