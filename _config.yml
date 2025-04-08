@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Prof. Lorena Aguirre Salazar"
 title_separator          : "-"
 name                     : &name "Prof. Lorena Aguirre Salazar"
-description              : &description "Visiting Assistant Professor at Texas A&M Corpus Christi"
+description              : &description "Faculty at Texas A&M Corpus Christi"
 url                      : https://laguirresalazar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "laguirresalazar/laguirresalazar.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lorena Aguirre Salazar"
   avatar           : "Lorena.jpg"
-  bio              : "Visiting Assistant Professor at Texas A&M Corpus Christi"
+  bio              : "Faculty at Texas A&M Corpus Christi"
   location         : "Corpus Christi, TX, USA"
   employer         : "Texas A&M Corpus Christi"
   pubmed           : 
