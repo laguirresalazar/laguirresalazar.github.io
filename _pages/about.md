@@ -10,9 +10,7 @@ redirect_from:
 
 Welcome to my home page! 
 
-I am currently a Visiting Assistant Professor at Texas A&M Corpus Christi. 
+Facultu at Texas A&M Corpus Christi. 
 
-My research interests include Pattern formation in the Calculus of
-Variations and PDEs both theoretically and computationally, and 
-Reflective Practices in 
-Teaching and Learning Mathematics. 
+My research interests include applications of pattern formation in the Calculus of
+Variations and PDEs both theoretically and computationally to Quantum Physics and Material Science. Community building and belonging.
