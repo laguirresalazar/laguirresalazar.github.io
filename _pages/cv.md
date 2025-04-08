@@ -42,7 +42,7 @@ Health Education Program for Educators and Navigators
 
 Research Interests
 ======
-Reflective Practices in Teaching and Learning Mathematics, Pattern formation in the Calculus of Variations and PDEs both theoretically and computationally.
+Applications of the Calculus of Variations and PDEs to Quantum Physics and Material Science.
 
 Teaching
 ======
@@ -60,6 +60,8 @@ Publications
 Service 
 ======
 
+* 2022-2023:  Committee member, Texas A\&M University, Corpus Christi, TX, US
+	* Department committee in Data Science, recruiting, Math Education
 * 2022-2023:  Committee member, Valdosta State University
 	* Faculty committee on student engagement
 	* MESA (a committee that serves the Hispanic students at VSU)
@@ -69,6 +71,7 @@ Service
 
 Awards and Scholarships
 ======
+* 2022: Award, TPSE Leadership program.
 * 2020: Scholarship, McMaster University, Dr. F. R. Britton scholarship 2020/2021
 * 2019: Scholarship, McMaster University, Dr. F. R. Britton scholarship 2019/2020
 * 2019: Student Travel Award, SIAM, Conference on Analysis of PDEs
