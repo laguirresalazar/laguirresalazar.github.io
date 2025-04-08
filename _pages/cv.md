@@ -59,9 +59,10 @@ Publications
   
 Service 
 ======
-
-* 2022-2023:  Committee member, Texas A\&M University, Corpus Christi, TX, US
-	* Department committee in Data Science, recruiting, Math Education
+* 2025-:  Committee member, Texas A\&M University, Corpus Christi, TX, US
+	* Department committee in Data Science, outreach.
+* 2024:  Committee member, Texas A\&M University, Corpus Christi, TX, US
+	* Department committee in Mathematics Education.
 * 2022-2023:  Committee member, Valdosta State University
 	* Faculty committee on student engagement
 	* MESA (a committee that serves the Hispanic students at VSU)
